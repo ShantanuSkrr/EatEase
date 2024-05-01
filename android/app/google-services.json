@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617793970810",
+    "project_id": "quickbite-b7aef",
+    "storage_bucket": "quickbite-b7aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617793970810:android:e3671d000ba0b877c1d1c3",
+        "android_client_info": {
+          "package_name": "com.example.eatease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfobdObcaROQeoaYEQ-AVm5OGMCL0oHq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
